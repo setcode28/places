@@ -1,2 +1,0 @@
-# places
-travel booking website
